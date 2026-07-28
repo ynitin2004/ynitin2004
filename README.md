@@ -32,7 +32,7 @@ I'm passionate about low-latency architectures, event-driven design, and turning
 ```json
 {
   "languages":  ["Python", "JavaScript", "TypeScript", "C++", "SQL"],
-  "backend":    ["Node.js", "Express.js", "FastAPI", "REST APIs", "WebSockets", "Microservices"],
+  "backend":    ["SpringBoot", "Spring Security", "Spring Data JPA", "Node.js", "Express.js", "FastAPI", "REST APIs", "WebSockets", "Microservices"],
   "genai":      ["LangChain", "LangGraph", "Google Gemini", "Azure OpenAI Realtime", "RAG", "Embeddings", "Prompt Engineering", "Tool-Calling"],
   "voice_ai":   ["Real-Time STT/TTS", "Streaming PCM Audio", "VAD", "Low-Latency Voice Orchestration"],
   "ml_dl":      ["PyTorch", "TensorFlow", "Scikit-learn"],
